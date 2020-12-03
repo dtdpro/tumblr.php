@@ -1,12 +1,12 @@
 {
 
-  "name": "tumblr/tumblr",
+  "name": "dtdpro/tumblr",
 
   "description": "Official Tumblr PHP Client",
 
   "keywords": ["tumblr", "api", "sdk", "gif"],
 
-  "homepage": "https://github.com/tumblr/tumblr.php",
+  "homepage": "https://github.com/dtdpro/tumblr.php",
 
   "authors": [
     {
